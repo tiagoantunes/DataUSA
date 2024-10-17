@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  DataUSA
+//
+//  Created by Tiago Antunes on 13/10/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+DATAUSA_API_SERVER_URL = datausa.io/api
+
+DATAUSA_API_KEY = 
+
